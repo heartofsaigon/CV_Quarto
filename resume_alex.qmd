@@ -22,10 +22,11 @@ format:
         \setlength{\columnsep}{3em}
 ---
 <!-- TITLE -->
-\begin{huge}\begin{center}{\bf ALEX BASS}\end{center}\end{huge}
+\begin{huge}\begin{center}{\bf NAM-ANH TRAN}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}acbass49@gmail.com ∙ \href{https://alexbass.me/projects.html}{Portfolio} ∙ \href{https://github.com/acbass49}{Github} ∙ \href{https://www.linkedin.com/in/alex-bass-4a7465161/}{LinkedIn}
+\begin{center}
+nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
 \end{center}
 \vspace{15pt}
 
@@ -35,159 +36,199 @@ format:
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}{\bf University of Virginia}\end{flushleft}
-    \begin{flushright}Charlottesville, VA\end{flushright}
+    \begin{flushleft}{\bf McGill University}\end{flushleft}
+    \begin{flushright}2023 - \end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}Master of Science: Data Science\end{flushleft}
+    \begin{flushleft}Doctor of Philosophy in Biostatistics\end{flushleft}
   \end{multicols}
-\end{large}
+  \end{large}
+
+   * \textit{Dissertation Topic:} Statistical methods for design and analysis of adaptive enrichment trials for vaccine development.
+   * \textit{Supervisor:} Dr. Shirin Golchi
+   *  \textit{Co-supervisor:} Dr. Laura Richert
+   * \textit{Courses:} Mathematical statistics I \& II, Regression and ANOVA, Advanced Generalized linear models, Bayesian Analysis in the Health Sciences, Advanced Modeling: Survival and Other Multivariable Data, Spatial and Spatio-temporal epidemiology, Machine Learning in Biostatistics. 
 
 \vspace{0.05cm}
 
 <!-- EDUCATION: 2ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf Brigham Young University}\end{flushleft}
-    \begin{flushright}Provo, UT\end{flushright}
+    \begin{flushleft}{\bf University of Manitoba}\end{flushleft}
+    \begin{flushright}2017 - 2019 \end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}Bachelor of Arts: Political Science\end{flushleft}
+    \begin{flushleft}Master of Science in Statistics \end{flushleft}
   \end{multicols}
-\end{large}
+  \end{large}
+
+   * \textit{Thesis Topic:} Construction of Bayesian Optimal Designs for Nonlinear Models.
+   * \textit{Supervisor:} Dr. Saumen Mandal
+   * \textit{Courses:} Advanced Statistical Inference, Machine Learning, Linear Models, Non-parametric Inference, Statistical Computing and Sports Analytics, Optimal Designs.
+
 \vspace{1.5pt}
 
-<!-- SKILLS -->
-\begin{large}{\bf SKILLS}
-  \vspace{3pt}
-  \hrule
+<!-- EDUCATION: 3ND BULLET -->
+\begin{large}
+  \begin{multicols}{2}
+    \begin{flushleft}{\bf University of Manitoba}\end{flushleft}
+    \begin{flushright}2012 - 2017 \end{flushright}
+  \end{multicols}
+  \vspace{-0.17cm}
+  \begin{multicols}{2}
+    \begin{flushleft}Bachelor of Science in Statistics \end{flushleft}
+  \end{multicols}
 \end{large}
-\vspace{-0.16cm}
-**Languages and Tools** - *proficient:* Python, R, Bash *intermediate:* Spark, SQL, Tensorflow/Keras, Git, Docker  
-**Selected Coursework** - Deep Learning, Bayesian Machine Learning, Big Data Systems with Spark, Linear Models for Data Science, Statistical Learning, Data Engineering, Linear Algebra, Econometrics I & II, Data Visualization, Programming in Python
 
 
 <!-- EXPERIENCE : 1ST BULLET-->
-\begin{large}{\bf EXPERIENCE}
+\begin{large}{\bf WORK EXPERIENCE}
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://www.dynata.com/}{Dynata}}\end{flushleft}
-    \begin{flushright}Aug 2022-Present\end{flushright}
+    \begin{flushleft}{\bf IMPaCT lab (Hospital for Sick Children) }\end{flushleft}
+    \begin{flushright}Nov 2021 - Aug 2023 \end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Data Scientist, Marketing}\end{flushleft}
-    \begin{flushright}Herndon, VA\end{flushright}\end
+    \begin{flushleft}\textit{Biostatistical anaylst}\end{flushleft}
+    \begin{flushright}Toronto, ON, Canada\end{flushright}\end
   {multicols}
 \end{large}
 \vspace{-0.16cm}
-* Delivered 30+ advanced analytical studies (MTA, drivers analysis, diff-in-diff) to high profile clients including 15+ to marketing teams at **Google and Meta**
-* Built diff-in-diff and multi-touch attribution model codebase in Python(OOP) for Ad Data Science Team. This codebase has **saved 100+ hours and brought over in $2 million in revenue to date**
+* Develop novel statistical methodologies for the prioritization, design and analysis of clinical trials.
+* Frame Bayesian adaptive trials for multiple projects in pediatrics, particularly emergency medicine.
+* Conduct health-economic models and analyzing Value of Information.
+* Write manuscripts and deliver reports. 
 
 \vspace{7pt}
 
 <!-- EXPERIENCE : 2ND BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://archive.org/}{Internet Archive}}\end{flushleft}
-    \begin{flushright}Nov 2022-May 2023\end{flushright}
+    \begin{flushleft}{\bf EVERSANA}\end{flushleft}
+    \begin{flushright}Nov 2019 - Sep 2021 \end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Intern, Data Science}\end
-    {flushleft}\begin{flushright}Washington, D.C.\end
+    \begin{flushleft}\textit{Biostatistician I}\end
+    {flushleft}\begin{flushright}Sydney, NS, Canada\end
     {flushright}
   \end{multicols}
 \end{large}
 \vspace{-0.16cm}
-* **Solved entity resolution problem with Gradient Boosted Trees** \href{https://alexbass.me/projects/internet_archive/}{[here]} linking sparse wikipedia references to Internet Archive Database References
-* Implemented model in Python \href{https://github.com/acbass49/wiki2ia}{[here]} which, given a wikipedia reference, will return a match in the Internet Archive Database along with a probability of matching.
+* Undertake Systematic Reviews for Health Economic Evaluations: 
+   * (Network) Meta-analysis.
+   * Matching-Adjusted Indirect Comparisons (MAIC).
+   * Simulated Treatment Comparisons (STC).
+* Conduct MAIC's and STC's for time-to-events data. 
+* Deliver reports. 
 
 \vspace{7pt}
 
 <!-- EXPERIENCE : 3RD BULLET -->
 \begin{large}
   \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://morningconsult.com/}{Morning Consult}}\end{flushleft}
-    \begin{flushright}Nov 2021-Aug 2022\end{flushright}
+    \begin{flushleft}{\bf University of Manitoba}\end{flushleft}
+    \begin{flushright}Sep 2017 - Apr 2018\end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Senior Data Analyst}\end
-    {flushleft}\begin{flushright}Washington, D.C.\end
+    \begin{flushleft}\textit{Teaching assistant}\end
+    {flushleft}\begin{flushright}Winnipeg, MB, Canada \end
     {flushright}
   \end{multicols}
 \end{large}
-\vspace{-0.16cm}
-* **Developed and automated wave-over-wave statistical tests on time series data** in 17 tracker surveys of 5 countries
-* Led project to build a Python Web Bot (Selenium) to automate generation of test cases in surveys, contributed this to data science code base (used by 60+ data scientists)
-* Over 300+ requests, pulled data from API or large database into R, wrangled data using R, and output figures and tables
 
 \vspace{7pt}
 
-<!-- EXPERIENCE : 4TH BULLET -->
-\begin{large}
-  \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://echeloninsights.com/}{Echelon Insights}}\end{flushleft}
-    \begin{flushright}April 2020-Nov 2021\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Research Analyst}\end{flushleft}
-    \begin{flushright}Alexandria, VA\end{flushright}
-  \end{multicols}
-\end{large}
-\vspace{-0.16cm}
-* Led in modeling projects **predicting election turnout for entire U.S. in 2022**, phone response rates, etc.
-* Wrangled, cleaned, weighted, or made presentations for 60+ survey datasets with R, SQL, and AWS
-* Using R Shiny, built a codeless-crosstab tool for company’s research team
 
-\vspace{7pt}
-
-<!-- EXPERIENCE : 5TH BULLET -->
-\begin{large}
-  \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{http://csed.byu.edu/}{Center for Elections and Democracy}}\end{flushleft}
-    \begin{flushright}Dec 2018-April 2020\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Research Fellow}\end{flushleft}
-    \begin{flushright}Provo, UT\end{flushright}
-  \end{multicols}
-\end{large}
-\vspace{-0.16cm}
-* Designed and executed multiple survey experiments in original research projects
-* Mentored 60+ students in solving econometrics problems in weekly office hours
-* Visualized data using R creating 50+ informative figures for AFS official report \href{https://csed.byu.edu/0000017e-2611-d5d4-a57f-277126ef0001/american-family-survey-2019-report-pdf}{[here]}, news outlets, and professor’s projects
-
-\vspace{7pt}
-
-<!-- PERSONAL PROJECTS : 1ST BULLET -->
-\begin{large}
-{\bf SELECTED PROJECTS}
+<!-- SKILLS -->
+\begin{large}{\bf TECHNICAL SKILLS}
   \vspace{3pt}
   \hrule
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://github.com/acbass49/school-shootings}{Bayesian County-Level School Shooting Analysis}}\end{flushleft}
-    \begin{flushright}August 2022\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
 \end{large}
-* Compared and estimated several Bayesian Regression models with PYMC3 in Python. Ultimately, used **hierarchal negative binomial model** to predict shootings and make inferences about gun laws
+\vspace{-0.16cm}
+ * \textit{Programming skills:} R, \LaTeX.
+ 
+ * \textit{Statistical skills:} Bayesian statistics, adaptive clinical trials, experimental designs, time-to-events analysis, indirect treatment comparisons, health-economic models, statistical learning. 
+ 
+ * \text{Management competencies:} teamwork, time management, independent working skills.
 
-\vspace{7pt}
 
-<!-- PERSONAL PROJECTS : 3RD BULLET -->
-\begin{large}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{\href{https://alexbass.me/projects/star_wars_capstone/}{Political Message Detection and Likeability in Films}}\end{flushleft}
-    \begin{flushright}April 2020\end{flushright}
-  \end{multicols}
-  \vspace{-0.17cm}
+<!-- PROJECTS  -->
+
+\begin{large}{\bf PROJECTS}
+  \vspace{3pt}
+  \hrule
 \end{large}
-* recieved award from Political Science department to fund a panel survey (n=1000).
-* estimated linear regression and multinomial logit in observational study context and wrote paper \href{https://alexbass.me/projects/star_wars_capstone/Capstone%20Project.pdf}{[here]} on findings.
+\vspace{-0.16cm}
+
+* \textbf{Predicting results of hockey game using machine learning methods:} Predicting future hockey game results using neural networks and support vector machines based on historical data extracted from \underline{www.tsn.ca}. Both approaches resulted in an accuracy of more than 60\% (Jan--Mar 2018). \textit{Completed}
+
+* \textbf{A mini project on Artificial Neural Network:} Predicting handwritten digits and images using neural networks. The accuracy of prediction using the neural network was more than $95\%$ (Sep--Dec 2017).  \textit{Completed}
+
+* \textbf{Construction of Optimal Designs for Linear Models:} Reviewing numerical algorithms for constructing the optimal design. Comparing time complexity of multiplicative algorithm against other approaches. The multiplicative algorithm, yielding the continuous optimal design, was more efficient than other approaches to searching the discrete optimal design (May--Aug 2017). \textit{Completed}
+
+<!-- CONFERENCE PRESENTATIONS -->
+\begin{large}{\bf CONFERENCE PRESENTATIONS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+
+* \textbf{Tran, Nam-Anh}, Kent Lu, Mingchi Xu. ``A Suggestion on Prediction of ICU Length of Stay: A Random Forest Approach." \textit{Case Studies in Data Analysis Competition at The Annual Meeting of the Statistical Society of Canada (Saint John, June 2024)}.
+
+* \textbf{Tran, Nam-Anh}, Abigail McGrory, Naveen Poonai, and Anna Heath. ``A Comparison of Alternative Ranking Methods in Two Stage Clinical Trials with Multiple Interventions: An Application to the Anxiolysis for Laceration Repair in Children Trial." \textit{Paper presented at The Seventh Annual (Bio)Statistics Research and Career Day at McGill (Montreal, May 2024)}.
+
+* \textbf{Tran, Nam-Anh}, Naveen Poonai, and Anna Heath. ``A Comparison of Alternative Ranking Methods in Two Stage Clinical Trials with Multiple Interventions: An Application to the Anxiolysis for Laceration Repair in Children Trial." \textit{Paper presented at The Annual Meeting of the Statistical Society of Canada (Ottawa, May 2023)}.
+
+* \textbf{Tran, Nam-Anh}, Anna Heath, Petros Pechlivanoglou, Naveen Poonai, Samina Ali, and Doug Coyle. ``Comparing the costs associated with anxiolytic agents for reducing distress in children undergoing laceration repair in the emergency department." \textit{Paper presented at the Society for Medical Decision Making 44th Annual North American Meeting (Seattle, Oct 2022)}.
+
+* \textbf{Tran, Nam-Anh}, Naveen Poonai, and Anna Heath. ``Selecting the superior treatment in Bayesian two-stage adaptive trial without the common control arm using the SUCRA and the probability of first rank." \textit{Paper presented at Bayesian Biostatistics Conference (Bethesda, Oct 2022)}.
+
+* \textbf{Tran, Nam-Anh}, Saumen Mandal. ``Construction of Bayesian Optimal Designs for Nonlinear Models." \textit{Paper presented at 47th Annual Meeting of the Statistical Society of Canada (Calgary, May 2019)}.
+
+
+<!-- PUBLICATION -->
+\begin{large}{\bf PUBLICATIONS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+
+* \textbf{Tran, Nam-Anh}, Yi-Shu Lin, Petros Pechlivanoglou, Naveen Poonai, Samina Ali, and Doug Coyle, Anna Heath. ``Comparing the Costs Associated with Anxiolytic Agents for Reducing Distress in Children Undergoing Laceration Repair in the Emergency Department." \textit{Submitted to Value in Health Journal}.
+
+* \textbf{Tran, Nam-Anh}, Abigail McGrory, Naveen Poonai, and Anna Heath. ``A comparison of alternative ranking methods in two-stage clinical trials with multiple interventions: An application to the anxiolysis for laceration repair in children trial." Clinical Trials (2024): 17407745241251812.
+
+* Siu, Annisa, \textbf{Nam-Anh Tran}, Samina Ali, Doug Coyle, Quenby Mahood, Yanara Marks, Petros Pechlivanoglou, Naveen Poonai, and Anna Heath. ``Pharmacologic Procedural Distress Management During Laceration Repair in Children: A Systematic Review." Pediatric Emergency Care 40, no. 2 (2024): 88-97.
+
+* Rugo, Hope S., Anja Haltner, Lin Zhan, \textbf{Anh Tran}, Eustratios Bananis, Becky Hooper, Debanjali Mitra, and Chris Cameron. ``Matching-adjusted indirect comparison of palbociclib versus ribociclib and abemaciclib in hormone receptor-positive/HER2-negative advanced breast cancer." Journal of Comparative Effectiveness Research 10, no. 6 (2021): 457-467.
+
+
+<!--  ACHIEVEMENTS -->
+\begin{large}{\bf ACHIEVEMENTS}
+  \vspace{3pt}
+  \hrule
+\end{large}
+\vspace{-0.16cm}
+
+* Graduate Research Enhancement and Travel (GREAT) Awards (Mar 2024)
+
+* A.Stat. by Statistical Society of Canada (Mar 2021).
+
+* Outstanding Research by a MSc. Student (Feb 2020).
+
+* Outstanding Academic Performance by a MSc. Student (Feb 2019).
+
+* Faculty of Graduate Studies Travel Award (May 2019).
+
+* Manitoba Graduate Scholarship (Sep 2018).
+
+* International Graduate Student Entrance Scholarship (Sep 2017).
+
+* Summer Undergraduate Research Award (May 2017).
+
+
