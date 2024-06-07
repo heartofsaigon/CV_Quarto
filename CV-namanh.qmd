@@ -3,10 +3,10 @@ format:
   pdf: 
     documentclass: article
     geometry:
-      - top=10mm
+      - top=1cm
       - left=15mm
       - right=15mm
-      - bottom=5mm
+      - bottom=1cm
       - heightrounded
     fontfamily: libertine
     colorlinks: true
@@ -28,7 +28,6 @@ format:
 \begin{center}
 nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
 \end{center}
-\vspace{15pt}
 
 <!-- EDUCATION: 1ST BULLET -->
 \begin{large}
@@ -68,7 +67,7 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
    * \textit{Supervisor:} Dr. Saumen Mandal
    * \textit{Courses:} Advanced Statistical Inference, Machine Learning, Linear Models, Non-parametric Inference, Statistical Computing and Sports Analytics, Optimal Designs.
 
-\vspace{1.5pt}
+\vspace{0.05cm}
 
 <!-- EDUCATION: 3ND BULLET -->
 \begin{large}
@@ -81,6 +80,8 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
     \begin{flushleft}Bachelor of Science in Statistics \end{flushleft}
   \end{multicols}
 \end{large}
+
+\vspace{0.5cm}
 
 
 <!-- EXPERIENCE : 1ST BULLET-->
@@ -97,13 +98,11 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
     \begin{flushright}Toronto, ON, Canada\end{flushright}\end
   {multicols}
 \end{large}
-\vspace{-0.16cm}
 * Develop novel statistical methodologies for the prioritization, design and analysis of clinical trials.
 * Frame Bayesian adaptive trials for multiple projects in pediatrics, particularly emergency medicine.
 * Conduct health-economic models and analyzing Value of Information.
 * Write manuscripts and deliver reports. 
 
-\vspace{7pt}
 
 <!-- EXPERIENCE : 2ND BULLET -->
 \begin{large}
@@ -126,7 +125,6 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
 * Conduct MAIC's and STC's for time-to-events data. 
 * Deliver reports. 
 
-\vspace{7pt}
 
 <!-- EXPERIENCE : 3RD BULLET -->
 \begin{large}
@@ -142,8 +140,7 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
   \end{multicols}
 \end{large}
 
-\vspace{7pt}
-
+\vspace{0.5cm}
 
 <!-- SKILLS -->
 \begin{large}{\bf TECHNICAL SKILLS}
@@ -157,6 +154,7 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
  
  * \text{Management competencies:} teamwork, time management, independent working skills.
 
+\vspace{0.5cm}
 
 <!-- PROJECTS  -->
 
@@ -171,6 +169,8 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
 * \textbf{A mini project on Artificial Neural Network:} Predicting handwritten digits and images using neural networks. The accuracy of prediction using the neural network was more than $95\%$ (Sep--Dec 2017).  \textit{Completed}
 
 * \textbf{Construction of Optimal Designs for Linear Models:} Reviewing numerical algorithms for constructing the optimal design. Comparing time complexity of multiplicative algorithm against other approaches. The multiplicative algorithm, yielding the continuous optimal design, was more efficient than other approaches to searching the discrete optimal design (May--Aug 2017). \textit{Completed}
+
+\vspace{0.5cm}
 
 <!-- CONFERENCE PRESENTATIONS -->
 \begin{large}{\bf CONFERENCE PRESENTATIONS}
@@ -191,6 +191,8 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
 
 * \textbf{Tran, Nam-Anh}, Saumen Mandal. ``Construction of Bayesian Optimal Designs for Nonlinear Models." \textit{Paper presented at 47th Annual Meeting of the Statistical Society of Canada (Calgary, May 2019)}.
 
+\vspace{0.5cm}
+
 
 <!-- PUBLICATION -->
 \begin{large}{\bf PUBLICATIONS}
@@ -207,6 +209,7 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
 
 * Rugo, Hope S., Anja Haltner, Lin Zhan, \textbf{Anh Tran}, Eustratios Bananis, Becky Hooper, Debanjali Mitra, and Chris Cameron. ``Matching-adjusted indirect comparison of palbociclib versus ribociclib and abemaciclib in hormone receptor-positive/HER2-negative advanced breast cancer." Journal of Comparative Effectiveness Research 10, no. 6 (2021): 457-467.
 
+\vspace{0.5cm}
 
 <!--  ACHIEVEMENTS -->
 \begin{large}{\bf ACHIEVEMENTS}
