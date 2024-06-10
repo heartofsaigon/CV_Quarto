@@ -45,8 +45,8 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
   \end{large}
 
    * \textit{Dissertation Topic:} Statistical methods for design and analysis of adaptive enrichment trials for vaccine development.
-   * \textit{Supervisor:} Dr. Shirin Golchi
-   *  \textit{Co-supervisor:} Dr. Laura Richert
+   * \textit{Supervisor:} Dr. Shirin Golchi (McGill University)
+   *  \textit{Co-supervisor:} Dr. Laura Richert (Université de Bordeaux)
    * \textit{Courses:} Mathematical statistics I \& II, Regression and ANOVA, Advanced Generalized linear models, Bayesian Analysis in the Health Sciences, Advanced Modeling: Survival and Other Multivariable Data, Spatial and Spatio-temporal epidemiology, Machine Learning in Biostatistics. 
 
 \vspace{0.05cm}
@@ -64,7 +64,7 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
   \end{large}
 
    * \textit{Thesis Topic:} Construction of Bayesian Optimal Designs for Nonlinear Models.
-   * \textit{Supervisor:} Dr. Saumen Mandal
+   * \textit{Supervisor:} Dr. Saumen Mandal (University of Manitoba)
    * \textit{Courses:} Advanced Statistical Inference, Machine Learning, Linear Models, Non-parametric Inference, Statistical Computing and Sports Analytics, Optimal Designs.
 
 \vspace{0.05cm}
@@ -226,11 +226,11 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
 
 * Outstanding Academic Performance by a MSc. Student (Feb 2019).
 
-* Faculty of Graduate Studies Travel Award, $500 (May 2019).
+* Faculty of Graduate Studies Travel Award, $750 (May 2019).
 
 * Manitoba Graduate Scholarship, $15,000 (Sep 2018).
 
-* International Graduate Student Entrance Scholarship (Sep 2017).
+* International Graduate Student Entrance Scholarship, $5,585 (Sep 2017).
 
 * Summer Undergraduate Research Award, $2,000 (May 2017).
 
