@@ -148,7 +148,7 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
   \hrule
 \end{large}
 \vspace{-0.16cm}
- * \textit{Programming skills:} R, \LaTeX.
+ * \textit{Programming skills:} R, \LaTeX, Git, GitHub.
  
  * \textit{Statistical skills:} Bayesian statistics, adaptive clinical trials, experimental designs, time-to-events analysis, indirect treatment comparisons, health-economic models, statistical learning. 
  
