@@ -94,7 +94,7 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}\textit{Biostatistical anaylst}\end{flushleft}
+    \begin{flushleft}\textit{Biostatistical analyst}\end{flushleft}
     \begin{flushright}Toronto, ON, Canada\end{flushright}\end
   {multicols}
 \end{large}
@@ -201,7 +201,7 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
 \end{large}
 \vspace{-0.16cm}
 
-* \textbf{Tran, Nam-Anh}, Yi-Shu Lin, Petros Pechlivanoglou, Naveen Poonai, Samina Ali, and Doug Coyle, Anna Heath. ``Comparing the Costs Associated with Anxiolytic Agents for Reducing Distress in Children Undergoing Laceration Repair in the Emergency Department." \textit{Submitted to Value in Health Journal}.
+* \textbf{Tran, Nam-Anh}, Yi-Shu Lin, Petros Pechlivanoglou, Naveen Poonai, Samina Ali, and Doug Coyle, Anna Heath. ``Comparing the Costs Associated with Anxiolytic Agents for Reducing Distress in Children Undergoing Laceration Repair in the Emergency Department." \textit{Submitted}.
 
 * \textbf{Tran, Nam-Anh}, Abigail McGrory, Naveen Poonai, and Anna Heath. ``A comparison of alternative ranking methods in two-stage clinical trials with multiple interventions: An application to the anxiolysis for laceration repair in children trial." Clinical Trials (2024): 17407745241251812.
 
