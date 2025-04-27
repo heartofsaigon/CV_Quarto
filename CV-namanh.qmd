@@ -201,7 +201,9 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
 \end{large}
 \vspace{-0.16cm}
 
-* \textbf{Tran, Nam-Anh}, Yi-Shu Lin, Petros Pechlivanoglou, Naveen Poonai, Samina Ali, and Doug Coyle, Anna Heath. ``Comparing the Costs Associated with Anxiolytic Agents for Reducing Distress in Children Undergoing Laceration Repair in the Emergency Department." \textit{Submitted}.
+* Marks, Yanara, Arlene Jiang, Linke Li, Yi-Shu Lin, Abigail McGrory, Yongdong Ouyang,  \textbf{Nam-Anh Tran}, Yuning Wang, Anna Heath. ``A systematic review of sample size determination in Bayesian randomized clinical trials: full Bayesian methods are rarely used." Clinical Trials (2025) \textit{submitted}.
+
+* \textbf{Tran, Nam-Anh}, Yi-Shu Lin, Petros Pechlivanoglou, Naveen Poonai, Samina Ali, and Doug Coyle, Anna Heath. ``Comparing the Costs Associated with Anxiolytic Agents for Reducing Distress in Children Undergoing Laceration Repair in the Emergency Department." JACEP Open (2025) \textit{accepted}.
 
 * \textbf{Tran, Nam-Anh}, Abigail McGrory, Naveen Poonai, and Anna Heath. ``A comparison of alternative ranking methods in two-stage clinical trials with multiple interventions: An application to the anxiolysis for laceration repair in children trial." Clinical Trials (2024): 17407745241251812.
 
