@@ -201,9 +201,12 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
 \end{large}
 \vspace{-0.16cm}
 
+
+* Poonai N, Arthur-Hayward V, Ali S, Sabhaney V, Doan Q, Trottier E, Gravel J, \textbf{Tran NA}, Bhatt M, Eltorki M, Thull-Freedman J. ``Anxiolysis for laceration repair in children: study protocol for an open-label multicenter adaptive trial (ALICE)." PloS one. 2025 Jun 4;20(6):e0324515.
+
 * Marks, Yanara, Arlene Jiang, Linke Li, Yi-Shu Lin, Abigail McGrory, Yongdong Ouyang,  \textbf{Nam-Anh Tran}, Yuning Wang, Anna Heath. ``A systematic review of sample size determination in Bayesian randomized clinical trials: full Bayesian methods are rarely used." Clinical Trials (2025) \textit{submitted}.
 
-* \textbf{Tran, Nam-Anh}, Yi-Shu Lin, Petros Pechlivanoglou, Naveen Poonai, Samina Ali, and Doug Coyle, Anna Heath. ``Comparing the Costs Associated with Anxiolytic Agents for Reducing Distress in Children Undergoing Laceration Repair in the Emergency Department." JACEP Open (2025) \textit{accepted}.
+* \textbf{Tran, Nam-Anh}, Yi-Shu Lin, Petros Pechlivanoglou, Samina Ali, Doug Coyle, Naveen Poonai, Anna Heath. ``Comparing the Costs Associated with Anxiolytic Agents for Reducing Distress in Children Undergoing Laceration Repair in the Emergency Department." JACEP Open, Volume 6, Issue 4, 2025, 100191, ISSN 2688-1152.
 
 * \textbf{Tran, Nam-Anh}, Abigail McGrory, Naveen Poonai, and Anna Heath. ``A comparison of alternative ranking methods in two-stage clinical trials with multiple interventions: An application to the anxiolysis for laceration repair in children trial." Clinical Trials (2024): 17407745241251812.
 
