@@ -35,7 +35,7 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
   \vspace{3pt}
   \hrule
   \begin{multicols}{2}
-    \begin{flushleft}{\bf McGill University}\end{flushleft}
+    \begin{flushleft}{\bf McGill University \& Université de Bordeaux}\end{flushleft}
     \begin{flushright}2023 - \end{flushright}
   \end{multicols}
   \vspace{-0.17cm}
@@ -45,8 +45,7 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +1 647 860 9519
   \end{large}
 
    * \textit{Dissertation Topic:} Statistical methods for design and analysis of adaptive enrichment trials for vaccine development.
-   * \textit{Supervisor:} Dr. Shirin Golchi (McGill University)
-   *  \textit{Co-supervisor:} Dr. Laura Richert (Université de Bordeaux)
+   * \textit{Supervisor:} Dr. Shirin Golchi (McGill University) and  Prof. Laura Richert (Université de Bordeaux)
    * \textit{Courses:} Mathematical statistics I \& II, Regression and ANOVA, Advanced Generalized linear models, Bayesian Analysis in the Health Sciences, Advanced Modeling: Survival and Other Multivariable Data, Spatial and Spatio-temporal epidemiology, Machine Learning in Biostatistics. 
 
 \vspace{0.05cm}
