@@ -40,7 +40,7 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +33 6 32 76 60 13
   \end{multicols}
   \vspace{-0.17cm}
   \begin{multicols}{2}
-    \begin{flushleft}Doctor of Philosophy in Biostatistics\end{flushleft}
+    \begin{flushleft}PhD in Biostatistics (Cotutelle / Dual Degree)\end{flushleft}
   \end{multicols}
   \end{large}
 
