@@ -203,7 +203,7 @@ nam-anh.tran@mail.mcgill.ca \quad\bullet\quad  +33 6 32 76 60 13
 
 * Poonai N, Arthur-Hayward V, Ali S, Sabhaney V, Doan Q, Trottier E, Gravel J, \textbf{Tran NA}, Bhatt M, Eltorki M, Thull-Freedman J. ``Anxiolysis for laceration repair in children: study protocol for an open-label multicenter adaptive trial (ALICE)." PloS one. 2025 Jun 4;20(6):e0324515.
 
-* Marks, Yanara, Arlene Jiang, Linke Li, Yi-Shu Lin, Abigail McGrory, Yongdong Ouyang,  \textbf{Nam-Anh Tran}, Yuning Wang, Anna Heath. ``A systematic review of sample size determination in Bayesian randomized clinical trials: full Bayesian methods are rarely used." Clinical Trials (2025) \textit{submitted}.
+* Marks, Yanara, Arlene Jiang, Linke Li, Yi-Shu Lin, Abigail McGrory, Yongdong Ouyang,  \textbf{Nam-Anh Tran}, Yuning Wang, Anna Heath. ``A systematic review of sample size determination in Bayesian randomized clinical trials: full Bayesian methods are rarely used." BMC Medical Research Methodology. 2026 Apr 18.
 
 * \textbf{Tran, Nam-Anh}, Yi-Shu Lin, Petros Pechlivanoglou, Samina Ali, Doug Coyle, Naveen Poonai, Anna Heath. ``Comparing the Costs Associated with Anxiolytic Agents for Reducing Distress in Children Undergoing Laceration Repair in the Emergency Department." JACEP Open, Volume 6, Issue 4, 2025, 100191, ISSN 2688-1152.
 
